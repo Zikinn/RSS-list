@@ -25,5 +25,5 @@
 | 季悠然 | https://gundam.exia.xyz/ | https://gundam.exia.xyz/feed | 新的开始 |
 | Luminous’ Home | https://luotianyi.vc/ | https://luotianyi.vc/feed | A Salty Fish~ |
 | 筱枫 / 枫茶舍 | https://hsiaofeng.com/ | https://hsiaofeng.com/archives/feed | "做自己生命中闪耀的星星" |
-| 一座桥在水上's Blog | https://blog.othing.xyz/ | https://blog.othing.xyz/feed | "无聊死了"🌚 |
+| 一座桥在水上's Blog | https://blog.othing.xyz/ | https://blog.othing.xyz/feed/ | "无聊死了"🌚 |
 | Zikin的独立博客 | https://zikin.org | https://zikin.org/feed | 青春大概如你所说 |
